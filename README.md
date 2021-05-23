@@ -1,9 +1,10 @@
 
 
 <h1 align="center">
-    <a href="https://pt-br.reactjs.org/">:speech_balloon:Covid-Tracker 19 - React JS</a>
+    <a href="https://pt-br.reactjs.org/">:Covid-Tracker 19 - React JS</a>
 </h1>
 <p align="center">🚀 Projeto feito em React-Js usando api public de covid19</p>
+
 
 ### Pré-requisitos
 
@@ -27,3 +28,39 @@ $ npm start
 
 # O servidor inciará na porta:3000 - acesse <http://localhost:3333>
 ```
+
+
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+
+- [React](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+
+## Bibiliotecas
+
+- [Material/UI]
+- [Classnames]
+- [react-countup]
+- [Axios]
+
+
+### 🛠 API
+
+A Seguinte API para desenvolver esse App:
+https://covid19.mathdro.id/api
+
+
+Willyam Santos 🚀
+Feito com ❤️ por Willyam Santos 👋🏽 Entre em contato!
+
+Twitter Badge Linkedin Badge Gmail Badge
+
+### Autor
+Willyam Santos 🚀
+Eu sou Desenvolvedor Full-Stack com foco em tecnologia .NET e React.
+🏽 Entre em contato!
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/)
+
