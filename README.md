@@ -57,6 +57,6 @@ https://covid19.mathdro.id/api
 ### Autor
 Willyam Santos 🚀<br>
 Eu sou Desenvolvedor Full-Stack com foco em tecnologia .NET e React.<br>
-🏽 Entre em contato! = 
+Entre em contato! <br>
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/willyamsantos/)
 
