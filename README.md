@@ -39,7 +39,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## Bibiliotecas
+### Bibiliotecas
 
 - [Material/UI]
 - [Classnames]
@@ -53,14 +53,10 @@ A Seguinte API para desenvolver esse App:
 https://covid19.mathdro.id/api
 
 
-Willyam Santos 🚀
-Feito com ❤️ por Willyam Santos 👋🏽 Entre em contato!
-
-Twitter Badge Linkedin Badge Gmail Badge
 
 ### Autor
-Willyam Santos 🚀
-Eu sou Desenvolvedor Full-Stack com foco em tecnologia .NET e React.
-🏽 Entre em contato!
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/)
+Willyam Santos 🚀<br>
+Eu sou Desenvolvedor Full-Stack com foco em tecnologia .NET e React.<br>
+🏽 Entre em contato! = 
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/willyamsantos/)
 
