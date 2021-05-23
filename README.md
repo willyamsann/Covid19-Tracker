@@ -5,6 +5,8 @@
 </h1>
 <p align="center">🚀 Projeto feito em React-Js usando api public de covid19</p>
 
+### Images
+
 
 ### Pré-requisitos
 
