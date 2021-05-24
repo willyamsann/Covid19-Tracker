@@ -43,9 +43,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Bibiliotecas
 
-- [Material/UI]
+- [Material/UI-core]
+- [Material/UI-icons]
 - [Classnames]
 - [react-countup]
+- [react-dom]
 - [Axios]
 
 
