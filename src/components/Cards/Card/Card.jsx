@@ -12,7 +12,12 @@ const CardComponent = ({ className, cardTitle, value, lastUpdate, cardSubtitle }
         {cardTitle}
       </Typography>
       <Typography variant="h5" component="h2">
-        <CountUp start={0} end={value} duration={2.75} separator="," />
+        <CountUp
+         start={0}
+         end={value} 
+         duration={2.75}
+         separator="." 
+       />
       </Typography>
       <Typography color="textSecondary">
       <Moment date= {new Date(lastUpdate).toDateString()} format="DD/MM/YYYY">
